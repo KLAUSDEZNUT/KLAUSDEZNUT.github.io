@@ -8,5 +8,5 @@ ___
 
 ## Emphasis
 
-![https://images.app.goo.gl/8UDViT6dMUz26rUSA]
+![https://github.com/KLAUSDEZNUT/KLAUSDEZNUT.github.io/issues/1#issue-2192761868]
  
