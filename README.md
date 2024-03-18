@@ -1,6 +1,6 @@
 # THE STORY OF THE 4 NIGAS
 
-## Horizontal Rules
+## Horizontal Rules [blue](#)
 
 
 ___
