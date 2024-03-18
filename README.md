@@ -8,4 +8,4 @@ ___
 
 ## Emphasis
 
-![Monkey-Selfie](https://github.com/KLAUSDEZNUT/KLAUSDEZNUT.github.io/assets/163886436/b335ea8c-0848-4f8d-8621-6d52d64bcb5b)
+![received_380238204794426](https://github.com/KLAUSDEZNUT/KLAUSDEZNUT.github.io/assets/163886436/de36db5d-c500-49af-829c-40508993fe15)
