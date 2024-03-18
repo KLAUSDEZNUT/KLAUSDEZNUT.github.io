@@ -1,4 +1,4 @@
-# welcome to my website nigas
+# THE STORY OF THE 4 NIGAS
 
 ## Horizontal Rules
 
@@ -6,6 +6,5 @@
 ___
 
 
-## Emphasis
+## ONCE A UPON A TIME MAY APAT NA NIGAS NA NAG PIC SA SALIMIN EACH ONE OF THEM LOOKS LIKE A MONKEY SPECIALLY THE THE CHINESE ONE
 
-![received_380238204794426](https://github.com/KLAUSDEZNUT/KLAUSDEZNUT.github.io/assets/163886436/de36db5d-c500-49af-829c-40508993fe15)
