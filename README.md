@@ -2,8 +2,8 @@
 <a href="https://wondercms.com" target="_blank" title="Official WonderCMS website">
     <img src="https://github.com/WonderCMS/wondercms-cdn-files/blob/main/logo.svg?raw=true" alt="WonderCMS logo" title="WonderCMS" align="center" height="150" />
 </a>
- <br>KLAUS Starcodeklaus<br>
-    <sup>5 files • 48KB zip - 1 step install</sup>
+ <br>Oneal Villagante<br>
+    <sup>Content Creator • Gamer</sup>
 </h1>
 
 <p align="center"><a href="https://github.com/WonderCMS/wondercms/wiki#wondercms-documentation"><img src="https://camo.githubusercontent.com/45b2b4156eee6b315080fad3c417be62fb10b7d3/68747470733a2f2f696d672e736869656c64732e696f2f72656164746865646f63732f7069702f737461626c652e7376673f6c6f6e6743616368653d7472756526763d313030" alt="Docs" data-canonical-src="https://img.shields.io/readthedocs/pip/stable.svg?longCache=true&amp;v=100" style="max-width:100%;"></a>
